@@ -130,3 +130,4 @@ C:\Users\soneg\source\repos\minimal-api-shorterUrl\minimal-api-shorterurl\obj\De
 C:\Users\soneg\source\repos\minimal-api-shorterUrl\minimal-api-shorterurl\obj\Debug\net8.0\minimal-api-shorterUrl.pdb
 C:\Users\soneg\source\repos\minimal-api-shorterUrl\minimal-api-shorterurl\obj\Debug\net8.0\minimal-api-shorterUrl.genruntimeconfig.cache
 C:\Users\soneg\source\repos\minimal-api-shorterUrl\minimal-api-shorterurl\obj\Debug\net8.0\ref\minimal-api-shorterUrl.dll
+C:\Users\soneg\source\repos\minimal-api-shorterUrl\minimal-api-shorterUrl\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
