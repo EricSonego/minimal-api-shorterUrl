@@ -4,7 +4,7 @@
     {
         // valid characters
         private const string Alphabet = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789";
-        private readonly Random _random;
+        private readonly Random _random = new();
 
         public string GenerateCode()
         {
