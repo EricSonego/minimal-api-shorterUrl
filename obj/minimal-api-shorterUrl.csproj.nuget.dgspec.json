@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\soneg\\source\\repos\\minimal-api-shorterUrl\\minimal-api-shorterurl\\minimal-api-shorterUrl.csproj": {}
+    "C:\\Users\\soneg\\source\\repos\\minimal-api-shorterUrl\\minimal-api-shorterUrl\\minimal-api-shorterUrl.csproj": {}
   },
   "projects": {
-    "C:\\Users\\soneg\\source\\repos\\minimal-api-shorterUrl\\minimal-api-shorterurl\\minimal-api-shorterUrl.csproj": {
+    "C:\\Users\\soneg\\source\\repos\\minimal-api-shorterUrl\\minimal-api-shorterUrl\\minimal-api-shorterUrl.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\soneg\\source\\repos\\minimal-api-shorterUrl\\minimal-api-shorterurl\\minimal-api-shorterUrl.csproj",
+        "projectUniqueName": "C:\\Users\\soneg\\source\\repos\\minimal-api-shorterUrl\\minimal-api-shorterUrl\\minimal-api-shorterUrl.csproj",
         "projectName": "minimal-api-shorterUrl",
-        "projectPath": "C:\\Users\\soneg\\source\\repos\\minimal-api-shorterUrl\\minimal-api-shorterurl\\minimal-api-shorterUrl.csproj",
+        "projectPath": "C:\\Users\\soneg\\source\\repos\\minimal-api-shorterUrl\\minimal-api-shorterUrl\\minimal-api-shorterUrl.csproj",
         "packagesPath": "C:\\Users\\soneg\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\soneg\\source\\repos\\minimal-api-shorterUrl\\minimal-api-shorterurl\\obj\\",
+        "outputPath": "C:\\Users\\soneg\\source\\repos\\minimal-api-shorterUrl\\minimal-api-shorterUrl\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
